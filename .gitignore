@@ -1,0 +1,7 @@
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.13/classes/
+graalvm-ce-java17-21.3.0
+jdk-17.0.1
